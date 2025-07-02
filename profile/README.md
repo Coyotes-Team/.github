@@ -1,4 +1,4 @@
-# 🦊 Echoes of the Wasteland - Post-Apocalyptic Adventure
+# Echoes of the Wasteland - Post-Apocalyptic Adventure
 
 ![Project Banner](https://github.com/user-attachments/assets/1250bfa2-987f-47cf-ac10-6ede78e4acc2)
 
